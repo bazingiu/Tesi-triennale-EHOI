@@ -1,3 +1,4 @@
+
 # Descrizione della Tesi
 
 Negli ultimi anni, i veloci progressi tecnologici hanno portato a significativi cambiamenti nel panorama economico, sociale e culturale, con impatti rilevanti nel mondo del lavoro.
